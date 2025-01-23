@@ -10,3 +10,4 @@ pytubefix
 torch
 webrtcvad-wheels
 pydub
+SpeechRecognition
