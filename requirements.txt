@@ -1,0 +1,12 @@
+faster_whisper
+ffmpeg
+ffmpeg_python
+moviepy
+numpy
+opencv_python
+opencv_python_headless
+pytube
+pytubefix
+torch
+webrtcvad-wheels
+pydub
